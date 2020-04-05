@@ -24,7 +24,7 @@ const TopAppBar = (props) => {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static" style={{backgroundColor: "#1b2ef7"}}>
+      <AppBar position="static" >
         <Toolbar>
           <Typography variant="h5" className={classes.title}>
             Day Planner

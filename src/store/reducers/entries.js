@@ -4,7 +4,7 @@ import { updateObject } from "../../shared/utility";
 const initialState = {
     topic: "",
     timeSelect: "15",
-    entries: [{topicEntry:"Go for a run", timeEntry: "30"}]
+    entries: []
 
 }
 
