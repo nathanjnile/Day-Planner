@@ -97,7 +97,7 @@ class InputForm extends Component {
 const mapStateToProps = state => {
     return {
         topic: state.entries.topic,
-        timeSelect : state.entries.timeSelect,
+        timeSelect: state.entries.timeSelect,
         entries: state.entries.entries
     };
 }
