@@ -1,0 +1,1 @@
+export { addTopic, addTime, addEntry } from "./entries";
